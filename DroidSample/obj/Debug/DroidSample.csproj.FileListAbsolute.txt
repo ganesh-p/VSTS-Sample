@@ -1,0 +1,14 @@
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\DroidSample.dll
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\DroidSample.pdb
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\Xamarin.Forms.Core.dll
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\Xamarin.Forms.Platform.dll
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\Xamarin.Forms.Core.xml
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\obj\Debug\DroidSample.csprojResolveAssemblyReference.cache
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\obj\Debug\DroidSample.dll
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\obj\Debug\DroidSample.pdb
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\obj\Debug\DroidSample.dll.mdb
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\DroidSample.dll.mdb
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\obj\Debug\DroidSample.dll.mdb
+G:\TechExplrn\VSTS\Source\DroidSample\DroidSample\DroidSample\bin\Debug\DroidSample.dll.mdb
